@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Mi nombre es Alejandro Barragán y soy un desarrollador fullstack de Colombia 🇨🇴</p>
+<h3 align="left">Mi nombre es Alejandro Barragán y soy un desarrollador fullstack de Colombia 🇨🇴</h3>
 
 ###
 
-<h2 align="left">Me apasiona resolver problemas, usando software. Aunque encuentre belleza en resolver bugs, cuando necesito descansar juego rugby 🏉, acampo⛺ y juego Minecraft ⛏️</h2>
+<p align="left">Me apasiona resolver problemas, usando software. Aunque encuentre belleza en resolver bugs, cuando necesito descansar juego rugby 🏉, acampo⛺ y juego Minecraft ⛏️</p>
 
 ###
 
