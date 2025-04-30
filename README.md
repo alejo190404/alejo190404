@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Mi nombre es Alejandro Barragán y soy un desarrollador fullstack de Colombia 🇨🇴</h3>
+<h3 align="left">Mi nombre es Alejandro Barragán y soy un desarrollador fullstack de Colombia 🟡🔵🔴</h3>
 
 ###
 
